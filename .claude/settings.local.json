@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "WebSearch",
+      "WebFetch(domain:www.a1k0n.net)",
+      "WebFetch(domain:theboredengineerblog.wordpress.com)",
+      "WebFetch(domain:const-toporov.medium.com)",
+      "Bash(/home/shaan/Desktop/ROBOFEST/Documents/venv/bin/python3:*)",
+      "WebFetch(domain:datasheets.raspberrypi.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(venv/bin/python3:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:roboticsknowledgebase.com)",
+      "WebFetch(domain:www.antonsmindstorms.com)",
+      "WebFetch(domain:thomasfermi.github.io)",
+      "WebFetch(domain:www.researchgate.net)",
+      "Bash(ffmpeg:*)",
+      "WebFetch(domain:www.pololu.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:felipenmartins.github.io)",
+      "WebFetch(domain:courses.ece.cornell.edu)"
+    ]
+  }
+}
